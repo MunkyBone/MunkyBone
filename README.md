@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MunkyBone, also known as Tom
+- 👀 I’m interested in various things including Arduino, small personal dev projects and torturing my family with my guitar/ukulele playing
+- 🌱 I’m currently learning ServiceNow development, SQL and Python
+- 💞️ I’m looking to collaborate on Open Source initiatives eventually
+- 📫 How to reach me @MunkyBone on https://mastodon.org.uk/
